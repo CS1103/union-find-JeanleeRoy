@@ -1,0 +1,3 @@
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class09/Lab/UnionFind/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class09/Lab/UnionFind/cmake-build-debug/CMakeFiles/UnionFind.dir
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class09/Lab/UnionFind/cmake-build-debug/CMakeFiles/edit_cache.dir

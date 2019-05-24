@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class09/Lab/UnionFind/UnionFInd.h
+array
+-
+iostream
+-
+
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class09/Lab/UnionFind/main.cpp
+iostream
+-
+UnionFInd.h
+/media/jeanlee/Disco local/UTEC/CICLO III/POO II/Lab/Class09/Lab/UnionFind/UnionFInd.h
+
